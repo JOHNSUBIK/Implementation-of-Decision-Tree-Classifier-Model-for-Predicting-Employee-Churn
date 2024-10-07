@@ -25,8 +25,8 @@ Stop the program
 
 ## Program:
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-## Developed by: Rohiit.A.S
-## RegisterNumber: 212223100047  
+## Developed by: JOHN PAUL J
+## RegisterNumber: 212223230093
 ```python
 
 import pandas as pd
